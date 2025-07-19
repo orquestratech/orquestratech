@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://orquestratech.github.io/orquestratech/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://orquestratech.github.io/orquestratech/</loc>
+</url>
+<url>
+<loc>https://orquestratech.github.io/orquestratech/contato.html</loc>
+<lastmod>2025-07-19T11:29:41-03:00</lastmod>
+</url>
+<url>
+<loc>https://orquestratech.github.io/orquestratech/inicio.html</loc>
+<lastmod>2025-07-19T11:22:48-03:00</lastmod>
+</url>
+<url>
+<loc>https://orquestratech.github.io/orquestratech/servicos-2.html</loc>
+<lastmod>2025-07-19T11:29:26-03:00</lastmod>
+</url>
+</urlset>

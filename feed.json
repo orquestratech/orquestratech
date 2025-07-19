@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "OrquestraTech",
+    "description": "",
+    "home_page_url": "https://orquestratech.github.io/orquestratech",
+    "feed_url": "https://orquestratech.github.io/orquestratech/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Silvio Andorinha"
+    },
+    "items": [
+    ]
+}
